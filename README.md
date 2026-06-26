@@ -20,6 +20,7 @@ know (cloud, Python, APIs) with what I'm learning (microcontrollers, RTOS).
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**ai_invoice_detector**](https://github.com/RodrigoSoria07/ai_invoice_detector) | Extracts structured data (vendor, totals, line items) from invoice PDFs and images — fully offline and rule-based, with zero API or token cost. Pydantic-validated output, CLI + drag-and-drop web UI, 20 tests. | Python · FastAPI · React |
 | [**pc_scanner**](https://github.com/RodrigoSoria07/pc_scanner) | Read-only heuristic malware-triage tool for Windows: flags suspicious autostarts, tasks, services, and processes, with VirusTotal reputation lookups and HTML/JSON reports. | PowerShell |
 | [**office-chat**](https://github.com/RodrigoSoria07/office-chat) | Real-time terminal "virtual office": channels, DMs, presence/status, and a live seating board over the local network. | Node.js |
 

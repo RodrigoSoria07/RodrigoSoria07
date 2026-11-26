@@ -15,6 +15,8 @@ A project & team workspace (board, roadmap, *Project › Task › Subtask* hiera
 
 [![planner-demo](https://raw.githubusercontent.com/RodrigoSoria07/planner-demo/main/assets/screenshots/02-board.png)](https://rodrigosoria07.github.io/planner-demo/)
 
+**More:** [automation-case-studies](https://github.com/RodrigoSoria07/automation-case-studies) - short, code-free case studies of IT automation (commissions, support platform, BI, payment flow, cloud costs).
+
 ### More projects
 
 | Project | What it does | Stack |

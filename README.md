@@ -21,7 +21,7 @@ A project & team workspace (board, roadmap, *Project › Task › Subtask* hiera
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**ai_invoice_detector**](https://github.com/RodrigoSoria07/ai_invoice_detector) | Extracts structured data (vendor, totals, line items) from invoice PDFs and images — fully offline and rule-based, with zero API or token cost. Pydantic-validated output, CLI + drag-and-drop web UI, 20 tests. | Python · FastAPI · React |
+| [**ai_invoice_detector**](https://github.com/RodrigoSoria07/ai_invoice_detector) | Extracts structured data (vendor, totals, line items) from invoice PDFs and images — fully offline and rule-based, with zero API or token cost. Pydantic-validated output, CLI + drag-and-drop web UI, 27 tests, CI on Python 3.11 and 3.12. | Python · FastAPI · React |
 
 ### What I do
 

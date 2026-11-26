@@ -5,7 +5,7 @@
 ### Results I can point to
 
 - **Multi-company commissions:** from ~1 week of manual work to **~3 hours per month**.
-- **Support platform (Mercately → Chatwoot):** from USD 3,600/year to **~USD 10/month — over 90% saved**.
+- **Support platform (paid SaaS → Chatwoot, open source):** from USD 3,600/year to **~USD 10/month — over 90% saved**.
 - **In-house BI** with **SQL + Metabase**.
 - **AWS spend reduction.**
 

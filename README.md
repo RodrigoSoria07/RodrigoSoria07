@@ -1,3 +1,22 @@
+## 👋 IT Coordinator at a regional company · Guatemala 🇬🇹
+
+I turn operational pain into automated, low-cost systems. Results I can point to:
+
+- **Multi-company commissions:** from ~1 week of manual work to **~3 hours per month**.
+- **Support platform (Mercately → Chatwoot):** from USD 3,600/year to **~USD 10/month — over 90% saved**.
+- **In-house BI** with **SQL + Metabase**.
+- **AWS spend reduction.**
+
+### ⭐ Featured project: [planner-demo](https://github.com/RodrigoSoria07/planner-demo)
+
+A project & team workspace (board, roadmap, *Project › Task › Subtask* hierarchy, team workload, metrics) that recreates, with **100% fictional data**, the planner I built to replace per-user licences. **[▶ Live demo](https://rodrigosoria07.github.io/planner-demo/)**
+
+[![planner-demo](https://raw.githubusercontent.com/RodrigoSoria07/planner-demo/main/assets/screenshots/02-board.png)](https://rodrigosoria07.github.io/planner-demo/)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rodrigosoria097)
+
+---
+
 # Hi, I'm Rodrigo Soria 👋
 
 **AI Automation & Infrastructure Engineer** · 🇬🇹 Guatemala
